@@ -21,6 +21,6 @@ end
   end
   
   def page_count
-    @pagecount
+    @page_count
 end
 end
