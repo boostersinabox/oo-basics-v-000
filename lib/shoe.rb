@@ -6,11 +6,9 @@ def initialize(brand)
   @brand = brand
 end
 
-def cobble(condition)
-  if conditon == "old"
+def cobble
   puts "Your shoe is as good as new!"
-  condition == "new"
-end
+  shoe.condition == "new"
 end
 
 end
